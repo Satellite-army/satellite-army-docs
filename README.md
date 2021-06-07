@@ -9,6 +9,24 @@
 
 docs repository of satellite.army
 
+## commands
+
+- cd into the `src` directory
+
+`cd src`
+
+- preview docs
+
+`gitbook serve`
+
+- build static website
+
+`gitbook build`
+
+## Troubleshooting
+
+- [fix cb.apply() is not a function](https://flaviocopes.com/cb-apply-not-a-function/)
+
 ## Stay in touch
 
 - Team - [Satellite team](satellite.army.99@gmail.com)
