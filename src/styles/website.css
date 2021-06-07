@@ -3,7 +3,40 @@
     color: #F1C231 ;
 }
 
-div#book-search-input{
-    background-color: #1E1F24 !important;
+#book-search-input {
+    background-color: #1E1F24;
+}
+
+.chapter > a {
+    color: #F1C231 !important;
+}
+
+.gitbook-link {
+    color: #F1C231 !important;
+}
+
+.book-body{
+    background-color: #1E1F24;
+}
+
+.markdown-section{
+    color: white !important;
+}
+
+.markdown-section a{
+    color: #F1C231 !important;
+    font-weight: bold !important;
+}
+
+.markdown-section h1{
+    color: #F1C231 !important;
+}
+
+.markdown-section h2{
+    color: #F1C231 !important;
+}
+
+.markdown-section h3{
+    color: #F1C231 !important;
 }
 
