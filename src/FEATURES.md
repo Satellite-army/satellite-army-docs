@@ -27,7 +27,7 @@ Moreover it is possible to set Telegram alerts regarding:
 - Impermanent Loss values for pools (e.g. notify me when pool X/Y has IL lower than threshold x)
 - Security issues about pools (e.g. scam, rug pull, hacks). Initially the alerts will be sent manually by the team, with the objective of automating it by aggregating multiple sources of data.
 
-## [Analytics](#analytics)
+## [Analytics page](#analytics)
 
 The analytics page shows in-depth information about the single pools. It provides plot for:
 - LP and relative tokens values trend against time, including the entry value at which you entered the pool.
